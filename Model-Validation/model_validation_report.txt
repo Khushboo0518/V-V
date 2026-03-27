@@ -1,0 +1,19 @@
+AI V&V MODEL VALIDATION REPORT
+File          : adult.csv
+Target        : income
+Train Accuracy: 100.00%
+Test Accuracy : 85.18%
+F1 Score      : 0.8476
+CV Std        : 0.0224
+Passed        : 8/9
+Failed        : 1/9
+
+Accuracy: PASS
+Precision/Recall/F1: PASS
+Overfitting: PASS
+Confusion Matrix: PASS
+Explainability (QB4AIRA): PASS
+Cross Validation (QB4AIRA): PASS
+Per-Class Fairness (QB4AIRA): FAIL
+Reliability/Safety (QB4AIRA): PASS
+RPIA Model Risk: PASS

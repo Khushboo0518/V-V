@@ -1,0 +1,15 @@
+AI V&V DATA VALIDATION REPORT
+File    : adult.csv
+Target  : income
+Passed  : 4/10
+Failed  : 6/10
+Missing Values: PASS
+Duplicates: FAIL
+Data Types: PASS
+Data Balance: FAIL
+Privacy (QB4AIRA): FAIL
+Bias Risk (QB4AIRA): FAIL
+Consistency (QB4AIRA): FAIL
+Sufficiency (QB4AIRA): PASS
+Correlation (QB4AIRA): PASS
+RPIA Data Risk: FAIL
